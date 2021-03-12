@@ -61,7 +61,7 @@ namespace Gklass
             }
 
             System.Console.WriteLine("\nMoney left over: " + money + "$");
-
+ 
             Console.ReadLine();
         }
     }
